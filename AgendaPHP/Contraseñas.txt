@@ -1,0 +1,8 @@
+PHP
+usuario: malcalsv@gmail.com  pwd: 123
+usuario: beronik@gmail.com   pwd: 123 
+usuario: benjamin@gmail.com  pwd: 123
+
+
+Nosql
+usuario: malcalsv@gmail.com pwd: 123456
